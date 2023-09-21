@@ -51,7 +51,7 @@ function myfunc() {
   }
 
   if (q1Value === "Paris") {
-    document.getElementById("points1").innerHTML = "<b>1 Point</b>";
+    document.getElementById("points1").innerHTML = "<b>1 Point  Correct!</b>";
     totalPoints += 1;
   } else {
     document.getElementById("points1").innerHTML =
@@ -59,7 +59,7 @@ function myfunc() {
   }
 
   if (q2Value === "George Orwell") {
-    document.getElementById("points2").innerHTML = "<b>1 Point</b>";
+    document.getElementById("points2").innerHTML = "<b>1 Point  Correct!</b>";
     totalPoints += 1;
   } else {
     document.getElementById("points2").innerHTML =
@@ -67,7 +67,7 @@ function myfunc() {
   }
 
   if (q3Value === "Bill Gates") {
-    document.getElementById("points3").innerHTML = "<b>1 Point</b>";
+    document.getElementById("points3").innerHTML = "<b>1 Point  Correct!</b>";
     totalPoints += 1;
   } else {
     document.getElementById("points3").innerHTML =
@@ -75,7 +75,7 @@ function myfunc() {
   }
 
   if (q4Value === "Mount Everest") {
-    document.getElementById("points4").innerHTML = "<b>1 Point</b>";
+    document.getElementById("points4").innerHTML = "<b>1 Point  Correct!</b>";
     totalPoints += 1;
   } else {
     document.getElementById("points4").innerHTML =
@@ -83,7 +83,7 @@ function myfunc() {
   }
 
   if (q5Value === "Yen") {
-    document.getElementById("points5").innerHTML = "<b>1 Point</b>";
+    document.getElementById("points5").innerHTML = "<b>1 Point  Correct!</b>";
     totalPoints += 1;
   } else {
     document.getElementById("points5").innerHTML =
